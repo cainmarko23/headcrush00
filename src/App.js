@@ -481,7 +481,7 @@ class App extends Component {
     };
     return (
       <footer style={footer_style}>
-        All rights reserved | Manal Liaquat &copy;
+        All rights reserved | Gregory A. Martin &copy;
       </footer>
     );
   }
