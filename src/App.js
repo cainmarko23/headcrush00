@@ -376,7 +376,7 @@ class App extends Component {
         <div>
           <nav className="navbar navbar-expand-lg navbar-light navBG">
             <a className="navbar-brand" href="JavaScript:Void(0);">
-              Employees List
+              The World's Strongest Employees List
             </a>
             <button
               className="navbar-toggler"
