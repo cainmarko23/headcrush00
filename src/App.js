@@ -194,7 +194,7 @@ class App extends Component {
                 type="text"
                 required="required"
                 className="form-control"
-                placeholder="Ali"
+                placeholder="John"
                 onChange={e => {
                   this.setState({ fName: e.target.value });
                 }}
@@ -205,7 +205,7 @@ class App extends Component {
               </label>
               <input
                 type="text"
-                placeholder="Khan"
+                placeholder="Doe"
                 className="form-control"
                 onChange={e => {
                   this.setState({ lName: e.target.value });
